@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "cecilia-abare-baltimore",
+    "name": "Cecilia Abare",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "",
+    "website": "",
+    "email": null,
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified court interpreter listed on Maryland resources for Baltimore City.",
+    "certifications": [],
+    "services": [
+      "certified court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:53",
+    "sentiment": null
+  },
+  {
+    "slug": "margarita-abaracon-baltimore",
+    "name": "Margarita Abaracon",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "",
+    "lat": 39.2908816,
+    "lng": -76.610759,
+    "phone": "202.500.6332",
+    "website": "",
+    "email": "mmfallin@hotmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified court interpreter listed on Maryland resources for Baltimore City.",
+    "certifications": [],
+    "services": [
+      "certified court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:53",
+    "sentiment": null
+  }
+]

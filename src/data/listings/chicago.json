@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "interprenet-chicago",
+    "name": "Interprenet",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "phone": "1233867320",
+    "website": "https://interprenet.net/court-interpreter",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified court interpreters for state and federal courts in 300+ languages including ASL, with onsite and remote services.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "remote interpreting",
+      "criminal and civil proceedings"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:54",
+    "sentiment": null
+  },
+  {
+    "slug": "jr-language-chicago",
+    "name": "JR Language",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "phone": "8571428571",
+    "website": "https://jrlanguage.com/locations/chicago-translation-services/",
+    "email": "INFO@JRLANGUAGE.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified translations accepted by USCIS for business and individuals in Chicago and Illinois, including court-related services.",
+    "certifications": [],
+    "services": [
+      "certified translations",
+      "legal translations",
+      "court documents"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "swift turnaround",
+        "quality translations",
+        "excellent service",
+        "easy process",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "Best customer service ever. My order was completed the day I placed it.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very impressive. Swift processing and response. Professional service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "As a fluent Arabic speaker, I found the translation service very precise, detailed and professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were great and came through for me in a pinch! 10/10!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation with all 5-star reviews consistently praising professional quality, rapid turnaround, easy process, and exceptional customer service."
+    }
+  },
+  {
+    "slug": "mej-personal-business-services-inc-chicago",
+    "name": "MEJ Personal Business Services Inc",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "phone": "212-426-6017",
+    "website": "https://www.mejpbs.com/chicago_court_interpreters_court_translators_in_chicago.php",
+    "email": "mjohnson@mejpbs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers legal simultaneous and consecutive interpretation, court translators in over 150 languages for Chicago courts.",
+    "certifications": [],
+    "services": [
+      "simultaneous interpretation",
+      "consecutive interpretation",
+      "legal document translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:54",
+    "sentiment": null
+  },
+  {
+    "slug": "inlingo-interpreters-and-translators-chicago",
+    "name": "inLingo Interpreters and Translators",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "phone": "6415721830",
+    "website": "https://inlingo.com/attorneys-and-law-firms/",
+    "email": "info@inLingo.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers interpretation and translation for attorneys, law firms, and courts with certified interpreters having legal backgrounds.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "legal translation",
+      "attorney services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "responsive",
+        "accurate",
+        "quality",
+        "timely",
+        "friendly"
+      ],
+      "highlights": [
+        {
+          "text": "Their love for accurate interpretation and translation is unbeatable! You won't find this kind of care and attention anywhere else.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "inLingo goes above and beyond! I couldn't recommend more.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The experience left me with a high degree of confidence the language was being accurately translated.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are amazing! Impressed with attention to detail, knowledge of their industry, quick response time, and friendly staff.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "inLingo Interpreters and Translators receives overwhelmingly positive reviews across all service types, with customers consistently praising their professionalism, accuracy, responsiveness, and exceptional customer service."
+    }
+  }
+]

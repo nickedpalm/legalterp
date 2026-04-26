@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "3-bridges-sign-language-services-austin",
+    "name": "3 Bridges Sign Language Services",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2711286,
+    "lng": -97.7436995,
+    "phone": "1758919284",
+    "website": "https://www.3bridgesaustin.com/legal-court.html",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides ASL legal and court interpreting services using court certified interpreters compliant with Texas laws.",
+    "certifications": [],
+    "services": [
+      "ASL court interpreting",
+      "Legal ASL services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:44",
+    "sentiment": null
+  },
+  {
+    "slug": "dovetail-communication-group-austin",
+    "name": "Dovetail Communication Group",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2711286,
+    "lng": -97.7436995,
+    "phone": "1777145233",
+    "website": "https://dovetailcommunicationgroup.com/asl-legal-interpreting-service-austin-texas/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers certified ASL legal interpreters for court settings, trials, hearings, depositions, and attorney-client interactions throughout Texas, with 62 BEI-certified court interpreters.",
+    "certifications": [],
+    "services": [
+      "ASL court interpreting",
+      "Legal depositions",
+      "Law enforcement investigations"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:44",
+    "sentiment": null
+  }
+]

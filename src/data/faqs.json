@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does a certified court interpreter cost?",
+    "answer": "Rates vary by language, region, and case type. Federal court interpreters typically earn $400\u2013$600 per half-day; state rates are often lower but vary widely. Rare languages command significant premiums. Agencies add a markup over freelance rates but handle scheduling and backup coverage. Expect to pay more for same-day or weekend bookings."
+  },
+  {
+    "question": "What is the difference between a certified and a qualified court interpreter?",
+    "answer": "Certified interpreters have passed a state or federal exam testing simultaneous interpretation, consecutive interpretation, and sight translation\u2014plus a written legal terminology component. Qualified interpreters have been approved by a judge to interpret in a specific proceeding but have not passed a formal certification exam. For high-stakes hearings, certified is the stronger choice."
+  },
+  {
+    "question": "Which court interpreter certification is most widely accepted?",
+    "answer": "The federal courts use the United States Court Interpreter Certification Examination (USCIE). Most states run their own programs through the National Center for State Courts (NCSC) consortium. For Spanish, state consortium certification is broadly recognized across member states. For less common languages, a court may accept a qualified interpreter if no certified option is available in that jurisdiction."
+  },
+  {
+    "question": "How do I verify a court interpreter's credentials before hiring?",
+    "answer": "Ask directly for their certification number and the issuing body, then cross-check against the state judiciary's public roster or the federal courts' interpreter locator. Also ask whether they have ever been disqualified or suspended from interpreting in any court or administrative proceeding\u2014this is a standard vetting question and a credentialed interpreter should answer without hesitation."
+  },
+  {
+    "question": "How far in advance do I need to book a certified court interpreter?",
+    "answer": "For common languages like Spanish, one to three business days is usually sufficient outside major metro areas. For rare languages, two weeks or more is realistic, and last-minute availability is not guaranteed. Multi-day trials or depositions require earlier booking. Agencies can sometimes provide same-day coverage for emergencies but typically charge a premium."
+  },
+  {
+    "question": "Can one interpreter handle a full-day trial, or do I need two?",
+    "answer": "Professional standards and interpreter fatigue guidelines recommend rotating interpreters every 30 minutes during simultaneous interpretation. For consecutive interpretation in shorter proceedings, a single interpreter can typically handle a half-day without quality degradation. For full-day trials or complex evidentiary hearings, budget for a team of two to maintain accuracy throughout."
+  },
+  {
+    "question": "What modes of interpretation does a court interpreter provide?",
+    "answer": "Certified court interpreters are trained in three modes: simultaneous (real-time, used during testimony), consecutive (speaker pauses, interpreter follows, used for question-and-answer), and sight translation (reading a written document aloud in the target language). Not all proceedings require all three, but a certified interpreter must be competent in each."
+  },
+  {
+    "question": "Can the interpreter explain legal terms or help a witness understand courtroom procedures?",
+    "answer": "No. A court interpreter's role is strictly to convey meaning between languages, not to explain legal concepts, advise witnesses, or clarify procedural rules. Doing so would violate impartiality requirements under most state codes of professional conduct. If a witness needs procedural guidance, that responsibility belongs to counsel or court staff."
+  },
+  {
+    "question": "What happens if a conflict of interest exists between the interpreter and a party?",
+    "answer": "The interpreter is ethically required to disclose any relationship with parties, counsel, or witnesses before the proceeding begins. Attorneys should ask directly about conflicts during intake. If a conflict surfaces mid-proceeding, the interpreter must withdraw. Proceeding with a conflicted interpreter can create grounds for appeal, so disclosure should be confirmed on the record."
+  },
+  {
+    "question": "Are remote (video or phone) court interpreters acceptable in formal proceedings?",
+    "answer": "Many jurisdictions now permit remote interpretation for routine hearings, but acceptance varies by court and judge. Simultaneous interpretation via remote platforms introduces latency and audio quality risks that can affect accuracy. For evidentiary hearings, jury trials, or credibility-sensitive testimony, in-person interpretation remains the stronger practice and is sometimes required by local rule."
+  },
+  {
+    "question": "How should attorneys phrase questions to get the most accurate interpretation?",
+    "answer": "Use short, direct sentences and avoid compound questions. Legal jargon, idioms, and double negatives create interpretation challenges and increase the risk of meaning loss. Pause between questions to give the interpreter time to complete each rendition fully. Instructing the interpreter to interpret everything said\u2014including sidebar comments\u2014is both proper practice and an ethical requirement."
+  },
+  {
+    "question": "What recourse exists if interpretation quality is disputed during a proceeding?",
+    "answer": "Either party may request the judge to halt the proceeding and address a suspected interpretation error on the record. In federal court, the presiding judge has authority to qualify or dismiss an interpreter. Documentation of errors, including timestamps and specific disputed passages, strengthens any post-proceeding challenge. A second certified interpreter present as a monitor is the most reliable preventive measure."
+  }
+]

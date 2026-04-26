@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "horizon-legal-solutions-interpreters-and-translators-jacksonville",
+    "name": "Horizon Legal Solutions Interpreters and Translators",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert translation and interpretation services for legal proceedings including trials, mediations, depositions, CMEs, IMEs, and office conferences in over 175 languages.",
+    "certifications": [],
+    "services": [
+      "Spanish",
+      "Creole",
+      "Portuguese",
+      "French"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:49",
+    "sentiment": null
+  }
+]

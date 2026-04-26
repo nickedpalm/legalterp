@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "oregon-certified-interpreters-network-ocin-portland",
+    "name": "Oregon Certified Interpreter's Network (OCIN)",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "1503213319",
+    "website": "https://oregoncertified.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Network of over 940 professional interpreters providing certified interpretation and translation services for legal, medical, corporate, and community settings, including court interpreting, in-person or remote.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "medical interpreting",
+      "conference interpreting",
+      "document translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:51",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "trust",
+        "clarity",
+        "confidentiality",
+        "cultural respect",
+        "certified",
+        "qualified"
+      ],
+      "highlights": [
+        {
+          "text": "language builds trust. Our interpreters and translators deliver clarity, confidentiality, and cultural respect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "940+ Certified & Qualified Interpreters",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "OCIN projects a highly professional and trustworthy reputation through consistent messaging around certified expertise, cultural competence, and client confidentiality, though these appear to be website content rather than verified customer reviews."
+    }
+  },
+  {
+    "slug": "triomega-inc-portland",
+    "name": "Triomega Inc.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "(503) 929-7858",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides ASL certified court interpreting services through Richard Hall, Oregon Certified Court Interpreter.",
+    "certifications": [],
+    "services": [
+      "ASL court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:51",
+    "sentiment": null
+  }
+]

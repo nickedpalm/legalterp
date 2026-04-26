@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "305-interpreters-philadelphia",
+    "name": "305 Interpreters",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "(305) 336-2179",
+    "website": "https://305interpreters.com",
+    "email": "astigma@astigmatic.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 34,
+    "description": "Provides interpreter services for Pennsylvania courts, including immigration and general court needs, with training focused on court interpretation processes.",
+    "certifications": [],
+    "services": [
+      "immigration court interpretation",
+      "general court interpreting",
+      "training workshops"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "immigration court interpretation",
+        "general court interpreting",
+        "training workshops"
+      ],
+      "highlights": [
+        {
+          "text": "Specialized in PA immigration court",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professional interpreters",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great training for court settings",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides interpreter services for Pennsylvania courts, including immigration and general court needs, with training focused on court interpretation processes."
+    }
+  },
+  {
+    "slug": "accurate-language-services-philadelphia",
+    "name": "Accurate Language Services",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "",
+    "website": "https://accuratelanguageservices.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 45,
+    "description": "Offers legal interpretation services to law firms, county, and state judiciary in Pennsylvania and New Jersey for over 20 years, including court-certified professionals.",
+    "certifications": [],
+    "services": [
+      "legal interpretation",
+      "court interpreting",
+      "deposition support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "legal interpretation",
+        "court interpreting",
+        "deposition support"
+      ],
+      "highlights": [
+        {
+          "text": "Over 20 years serving PA courts",
+          "sentiment": "positive"
+        },
+        {
+          "text": "High-quality legal interpreting",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Trusted by county judiciary systems",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Offers legal interpretation services to law firms, county, and state judiciary in Pennsylvania and New Jersey for over 20 years, including court-certified professionals."
+    }
+  },
+  {
+    "slug": "american-language-services-philadelphia",
+    "name": "American Language Services",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "800-951-5020",
+    "website": "https://www.alsglobal.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.5,
+    "review_count": 120,
+    "description": "Provides court certified interpreters for every language in Pennsylvania, meeting AOPC requirements including oral proficiency exams, registration, and workshops. Offers 24/7 services for court and legal needs.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "consecutive interpretation",
+      "simultaneous interpretation",
+      "sight translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "court interpretation",
+        "consecutive interpretation",
+        "simultaneous interpretation",
+        "sight translation"
+      ],
+      "highlights": [
+        {
+          "text": "Excellent court interpreters, very professional",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable for legal proceedings in PA",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Certified staff handled Spanish perfectly",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides court certified interpreters for every language in Pennsylvania, meeting AOPC requirements including oral proficiency exams, registration, and workshops. Offers 24/7 services for court and le"
+    }
+  },
+  {
+    "slug": "jr-language-philadelphia",
+    "name": "JR Language",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "8571428571",
+    "website": "https://jrlanguage.com",
+    "email": "info@jrlanguage.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 89,
+    "description": "Delivers certified translation and interpretation services in Philadelphia accepted by courts, USCIS, and government agencies, including court interpreting.",
+    "certifications": [],
+    "services": [
+      "certified court translation",
+      "interpretation services",
+      "legal document support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "certified court translation",
+        "interpretation services",
+        "legal document support"
+      ],
+      "highlights": [
+        {
+          "text": "Certified translations accepted by PA courts",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable for legal documents",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast and accurate service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Delivers certified translation and interpretation services in Philadelphia accepted by courts, USCIS, and government agencies, including court interpreting."
+    }
+  },
+  {
+    "slug": "tjc-global-philadelphia",
+    "name": "TJC Global",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "",
+    "lat": 39.9527237,
+    "lng": -75.1635262,
+    "phone": "1598107859",
+    "website": "https://www.tjc-global.com",
+    "email": "info@tjc-global.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 67,
+    "description": "Provides professional translators and interpreters in Philadelphia for specialist fields including court, depositions, and legal proceedings, with a large network of qualified linguists.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "deposition interpreting",
+      "conference interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "court interpretation",
+        "deposition interpreting",
+        "conference interpretation"
+      ],
+      "highlights": [
+        {
+          "text": "Expert interpreters for Philadelphia courts",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Over 80 languages available",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Perfect for depositions and trials",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provides professional translators and interpreters in Philadelphia for specialist fields including court, depositions, and legal proceedings, with a large network of qualified linguists."
+    }
+  }
+]

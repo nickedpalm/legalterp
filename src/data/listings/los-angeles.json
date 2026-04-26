@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "california-center-for-translation-interpretation-los-angeles",
+    "name": "California Center for Translation & Interpretation",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "",
+    "lat": 34.0536909,
+    "lng": -118.242766,
+    "phone": "1610481788",
+    "website": "https://www.cacfti.org",
+    "email": "info@cacfti.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers court-certified translation services for foreign-language documents submitted to California courts, plus interpretation for depositions, trials, arbitrations, hearings, mediations, and attorney-client interviews.",
+    "certifications": [],
+    "services": [
+      "Court-certified translations",
+      "Legal document translation",
+      "Court interpretation",
+      "Deposition interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.65,
+      "keywords": [
+        "certified translation",
+        "legal documents",
+        "USCIS services",
+        "academic documents",
+        "professional services",
+        "international students"
+      ],
+      "highlights": [
+        {
+          "text": "certified translation services for legal documents that need to be used in courts",
+          "sentiment": "positive"
+        },
+        {
+          "text": "help international students fulfill their goals of studying in the United States",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Professional translation service provider emphasizing credentials, legal compliance, and commitment to helping students and document processing, though this is company description rather than customer review data."
+    }
+  },
+  {
+    "slug": "california-institute-of-technologies-los-angeles",
+    "name": "California Institute of Technologies",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "",
+    "lat": 34.0536909,
+    "lng": -118.242766,
+    "phone": "1664906558",
+    "website": "https://calinterpreting.com",
+    "email": "info@calinterpreting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified court interpreters in over 250 languages, sign language interpreters, document translation, and interpreting equipment for court proceedings in California and across the US.",
+    "certifications": [],
+    "services": [
+      "Court interpreting",
+      "Sign language interpreting",
+      "Document translation",
+      "Interpreting equipment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "ready to help",
+        "24/7 service",
+        "translators",
+        "interpreters",
+        "assistance",
+        "customer support"
+      ],
+      "highlights": [
+        {
+          "text": "We're ready to help. No matter what your needs may be, we can and are ready to assist you now.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We have translators and interpreters standing by 24/7",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Marketing-driven messaging with positive tone emphasizing service availability, 24/7 support, and customer readiness\u2014but lacks authentic customer feedback or experience details."
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "jr-language-translation-services-inc-nashville",
+    "name": "JR Language Translation Services Inc.",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "315 Deaderick St #1550, Nashville, TN 37238",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "585-935-7144",
+    "website": "https://jrlanguage.com",
+    "email": "info@jrlanguage.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional translation agency offering interpretation services and certified translations in 100+ languages for Nashville businesses, legal, and diverse populations.",
+    "certifications": [],
+    "services": [
+      "interpretation",
+      "document translation",
+      "certified translation",
+      "legal services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "swift processing",
+        "precise",
+        "excellent customer service",
+        "timely",
+        "easy submission process"
+      ],
+      "highlights": [
+        {
+          "text": "Best customer service ever. My order was completed the day I placed it.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "As a fluent Arabic speaker, I found the translation service very precise, detailed and professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were great and came through for me in a pinch! 10/10!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The submission process was easy and the translation was completed quickly.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "JR Language Translation Services receives universal 5-star praise for professional quality, fast turnaround, excellent customer service, and streamlined submission process with no negative feedback."
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "affiliated-court-reporters-minneapolis",
+    "name": "Affiliated Court Reporters",
+    "city": "Minneapolis",
+    "state": "WI",
+    "address": "",
+    "lat": 45.3086205,
+    "lng": -92.495153,
+    "phone": "612-338-4348",
+    "website": "https://affiliatedreportersmn.com",
+    "email": "patti@AffiliatedReportersMN.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides professional court interpreter services in Western Wisconsin and Minnesota for legal settings, including court-appointed and private proceedings, in conjunction with court reporting and videography.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "legal interpretation",
+      "remote options"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "accurate",
+        "professional",
+        "reliable",
+        "responsive",
+        "efficient",
+        "personable",
+        "attention to detail"
+      ],
+      "highlights": [
+        {
+          "text": "they are simply the best. Affiliated Court Reporters are accurate, reliable, flexible, efficient, and responsive",
+          "sentiment": "positive"
+        },
+        {
+          "text": "consistently accurate and professional. I appreciate their reporters' attention to detail",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I schedule all of my depositions with Affiliated",
+          "sentiment": "positive"
+        },
+        {
+          "text": "high quality services while still being present and personable with our office",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Affiliated Court Reporters has an exceptional reputation built on 20+ years of client relationships, consistently praised for accuracy, professionalism, reliability, and personable service with no negative feedback."
+    }
+  },
+  {
+    "slug": "keystone-interpreting-solutions-minneapolis",
+    "name": "Keystone Interpreting Solutions",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "Not provided in search results",
+    "lat": 44.9772995,
+    "lng": -93.2654692,
+    "phone": "Not provided in search results",
+    "website": "https://kisasl.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides American Sign Language (ASL) interpreting specialties including legal, medical, team, and video remote interpreting with on-site, video, and telephone options",
+    "certifications": [],
+    "services": [
+      "ASL interpreting",
+      "legal",
+      "medical",
+      "team interpreting",
+      "video remote",
+      "on-site",
+      "telephone",
+      "sight translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:24",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "exemplary",
+        "highly trained",
+        "professional",
+        "compassionate",
+        "accurate",
+        "amazing",
+        "user-friendly"
+      ],
+      "highlights": [
+        {
+          "text": "They were truly exemplary...highly trained professionals...They made a challenging day easier",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your CDI skills at the conference were amazing. Your timing was in cadence...quick and accurate",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Compassionate and empathetic way of working...more helpful than you could know",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I have never seen such quick and accurate interpreting",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Keystone Interpreting Solutions receives exceptional praise across all reviews for professionalism, accuracy, compassion, and exceptional interpreter quality, with no negative feedback."
+    }
+  }
+]

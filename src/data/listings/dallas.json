@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "yovana-gonzalez-fcci-dallas",
+    "name": "Yovana Gonzalez, FCCI",
+    "city": "Dallas",
+    "state": "TX",
+    "address": "",
+    "lat": 32.7762719,
+    "lng": -96.7968559,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Federally Certified Court Interpreter (FCCI) contractor for the Eastern District of Texas, based in DFW area.",
+    "certifications": [],
+    "services": [
+      "Spanish federal court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:44",
+    "sentiment": null
+  }
+]

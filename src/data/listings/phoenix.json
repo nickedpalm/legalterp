@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "pci-interpreterscom-phoenix",
+    "name": "PCI-Interpreters.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "Not provided",
+    "lat": 33.4484367,
+    "lng": -112.074141,
+    "phone": "(623) 873-6154",
+    "website": "https://www.pci-interpreters.com",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional court interpreting and translation services providing languages spanning A to Z, including written document translation and audio/visual file transcription and translation",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "written translation",
+      "audio transcription",
+      "visual file translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:09",
+    "sentiment": null
+  }
+]

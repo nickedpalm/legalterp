@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "alma-adriano-interpreter-and-translator-services-llc-houston",
+    "name": "Alma Adriano Interpreter and Translator Services LLC",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides federally certified interpretation and translation services for courts.",
+    "certifications": [],
+    "services": [
+      "Federally certified court interpreting",
+      "Translation services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:44",
+    "sentiment": null
+  },
+  {
+    "slug": "preciso-language-services-llc-houston",
+    "name": "Preciso Language Services LLC",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7589382,
+    "lng": -95.3676974,
+    "phone": "(214) 814-4104",
+    "website": "https://www.precisolanguage.com",
+    "email": "info@precisolanguage.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers certified court interpreter services, associated with TAJIT for court interpreters and legal translators.",
+    "certifications": [],
+    "services": [
+      "Certified court interpreting",
+      "Legal translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:44",
+    "sentiment": null
+  }
+]

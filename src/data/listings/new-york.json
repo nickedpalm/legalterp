@@ -1,0 +1,310 @@
+[
+  {
+    "slug": "american-language-services-new-york",
+    "name": "American Language Services",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided in search results",
+    "lat": 40.8135071,
+    "lng": -74.0743442,
+    "phone": "(800) 951-5020",
+    "website": "https://www.alsglobal.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Court certified interpreters available for every language. Available 24/7 with cutting edge technology to locate qualified local interpreters.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "certified interpreters"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:23",
+    "sentiment": null
+  },
+  {
+    "slug": "hudson-court-reporting-video-new-york",
+    "name": "Hudson Court Reporting & Video",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "1776861556",
+    "website": "https://www.hudsonreporting.com",
+    "email": "info@hudsonreporting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides legal interpreter services in NY and NJ, including certified court and deposition interpreters for in-person, phone, or video conferencing to ensure accurate communication in legal proceedings.",
+    "certifications": [],
+    "services": [
+      "court interpreter services",
+      "deposition interpreter services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "responsive",
+        "excellent quality",
+        "reliable",
+        "courteous",
+        "turnaround"
+      ],
+      "highlights": [
+        {
+          "text": "Your team sets the standard for court reporting services",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Exceptional service throughout the matter with a personal touch",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Utilized the services of Hudson for over 20 years",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Extremely satisfied with their services for over 10 years",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Hudson Court Reporting & Video receives unanimous acclaim from major law firms for exceptional service, professional staff, excellent transcript quality, and remarkable responsiveness."
+    }
+  },
+  {
+    "slug": "interprenet-new-york",
+    "name": "Interprenet",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "1233867320",
+    "website": "https://interprenet.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers court-certified interpreters trained for criminal and civil proceedings in U.S. state and federal courts, available onsite or remotely nationwide.",
+    "certifications": [],
+    "services": [
+      "court-certified interpretation",
+      "remote court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": {
+      "label": "unknown",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "No actual review content provided to analyze \u2014 only a placeholder header indicating reviews exist elsewhere"
+    }
+  },
+  {
+    "slug": "mej-new-york",
+    "name": "MEJ",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "212-426-6017",
+    "website": "https://www.mejpbs.com",
+    "email": "mjohnson@mejpbs.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides court interpreters and translators for legal on-site interpretation, depositions, hearings, and meetings in Manhattan NYC.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "legal translation",
+      "deposition interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": null
+  },
+  {
+    "slug": "pierson-consultus-new-york",
+    "name": "Pierson Consultus",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "212-489-5640",
+    "website": "https://www.PiersonConsultus.com",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Operated by Sophie K. Pierson, Esq., State and Federal Certified French Interpreter for New York State Unified Court System and United States Court System; also an attorney in NYC and Paris.",
+    "certifications": [],
+    "services": [
+      "French court interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": null
+  },
+  {
+    "slug": "pronto-translations-new-york",
+    "name": "Pronto Translations",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "+1 (646) 984-4073",
+    "website": "https://prontotranslations.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified court interpreter services in New York City for state and federal courts, covering over 300 languages with in-person or remote options across five boroughs and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "certified court interpretation",
+      "legal interpretation",
+      "legal translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": null
+  },
+  {
+    "slug": "rl-resources-new-york",
+    "name": "RL Resources",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided in search results",
+    "lat": 40.8135071,
+    "lng": -74.0743442,
+    "phone": "Not provided in search results",
+    "website": "https://rlresources.com",
+    "email": "info@RLResources.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified court reporters providing witness interpretation at depositions and translation of written documents.",
+    "certifications": [],
+    "services": [
+      "witness interpretation",
+      "document translation",
+      "deposition services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:23",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "reliable",
+        "unparalleled service",
+        "technical expertise",
+        "virtual trial capability",
+        "above and beyond"
+      ],
+      "highlights": [
+        {
+          "text": "Your expertise took away all concern of the technical aspects of my case and I got a rare favorable verdict",
+          "sentiment": "positive"
+        },
+        {
+          "text": "True professionals and a pleasure to deal with; unparalleled client service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Go above and beyond to make sure you receive the best service while using the latest technology",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They act as an extension of our team, supporting our attorneys and legal staff",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Renzi Legal Resources has exceptional reputation with uniformly positive reviews praising their professional service, technical expertise in virtual depositions, and customer-first approach across 25+ years of client relationships."
+    }
+  },
+  {
+    "slug": "speak-at-ease-new-york",
+    "name": "Speak-At-Ease",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Operated by Ella Arolovich, NYS Per Diem Certified Translator & Interpreter for the Unified Court System, holds NYC Department of Corrections facilities pass and federal clearance.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:39",
+    "sentiment": null
+  }
+]

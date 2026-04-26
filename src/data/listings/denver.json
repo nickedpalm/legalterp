@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "jr-language-translation-services-inc-denver",
+    "name": "JR Language Translation Services Inc.",
+    "city": "Denver",
+    "state": "CO",
+    "address": "44 Cook St, Suite 100, Denver, CO 80206",
+    "lat": 39.7392364,
+    "lng": -104.984862,
+    "phone": "585-206-2963",
+    "website": "https://jrlanguage.com",
+    "email": "info@jrlanguage.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers certified translations for court hearings and USCIS, along with professional translation services for documents, websites, and multimedia in Denver.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "professional",
+        "quick turnaround",
+        "excellent service",
+        "precise",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "Best customer service ever. My order was completed the day I placed it.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Very precise, detailed and professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were great and came through for me in a pinch! 10/10!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Swift processing and response. Professional service.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "JR Language Translation Services has exceptional reputation with all 5-star reviews praising professional service, quick turnaround, and excellent customer support."
+    }
+  }
+]

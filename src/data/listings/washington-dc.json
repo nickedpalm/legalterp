@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "california-interpreting-washington-dc",
+    "name": "California Interpreting",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "1664906558",
+    "website": "https://calinterpreting.com/us-districts/washington-dc/",
+    "email": "info@calinterpreting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provider of certified interpreting and translation services for legal, court, phone, and document needs for government agencies in Washington DC, with registered and certified interpreters for legal and government contract work.",
+    "certifications": [],
+    "services": [
+      "certified court interpreting",
+      "legal interpreting",
+      "phone interpreting",
+      "document translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:34",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "24/7 availability",
+        "ready to help",
+        "professional interpreters",
+        "responsive service",
+        "customer support"
+      ],
+      "highlights": [
+        {
+          "text": "We have translators and interpreters standing by 24/7",
+          "sentiment": "positive"
+        },
+        {
+          "text": "No matter what your needs may be, we can and are ready to assist you now",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Website marketing copy projects confidence and availability, but lacks authentic customer reviews or proof of service quality."
+    }
+  },
+  {
+    "slug": "capital-linguists-washington-dc",
+    "name": "Capital Linguists",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "1776344646",
+    "website": "https://capitallinguists.com",
+    "email": "info@capitallinguists.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provider of certified legal translation and court interpretation services in 200+ languages, including court-certified interpreters for major languages with a focus on accuracy in courtroom settings.",
+    "certifications": [],
+    "services": [
+      "certified legal translation",
+      "court interpretation",
+      "onsite interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:34",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "responsive",
+        "excellent quality",
+        "efficient",
+        "on-time delivery"
+      ],
+      "highlights": [
+        {
+          "text": "Best translation agency I've ever done business with!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They have the best interpreters and were extremely professional",
+          "sentiment": "positive"
+        },
+        {
+          "text": "finished it well before the deadline",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We would be honored to recommend Capital Linguists",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Capital Linguists receives universal praise for professional interpreters, responsive service, efficiency, and reliable on-time delivery across legal and corporate sectors."
+    }
+  },
+  {
+    "slug": "comprehensive-language-center-inc-clci-washington-dc",
+    "name": "Comprehensive Language Center, Inc. (CLCI)",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Approved D.C. government vendor for translation and in-person interpretation services, offering consecutive, simultaneous, and escort interpreters for business meetings and legal proceedings, meeting Certified Business Enterprise (CBE) requirements.",
+    "certifications": [],
+    "services": [
+      "document translation",
+      "in-person interpretation",
+      "consecutive interpretation",
+      "simultaneous interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:34",
+    "sentiment": null
+  },
+  {
+    "slug": "court-interpreting-services-llc-washington-dc",
+    "name": "Court Interpreting Services, LLC",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "phone": "",
+    "website": "https://www.cisnovaus.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional agency providing qualified/certified court, medical, commercial, and community interpreters in over 32 languages and 62 dialects to courts, law offices, federal agencies, and companies in the Washington, D.C. metropolitan area since 2000.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "medical interpreting",
+      "commercial interpreting",
+      "community interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:34",
+    "sentiment": null
+  },
+  {
+    "slug": "liberty-language-services-washington-dc",
+    "name": "Liberty Language Services",
+    "city": "Washington",
+    "state": "VA",
+    "address": "",
+    "lat": 38.9000479,
+    "lng": -77.0706333,
+    "phone": "1773945044",
+    "website": "https://www.libertylanguageservices.com/virginia-interpretation-translation/",
+    "email": "support@libertylanguageservices.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers qualified educational, medical, government, and community interpreters and translators serving areas including Alexandria, Arlington, Fairfax, Harrisonburg, and Loudoun, Virginia.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:43",
+    "sentiment": null
+  }
+]

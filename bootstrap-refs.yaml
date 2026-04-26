@@ -1,0 +1,144 @@
+generated_at: '2026-04-26T14:17:58+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: f35a3096-cf2b-479e-978c-685a752982a1
+    kind: cf.d1_db
+    name: directory_legalterp
+  cf.dns_records:
+    extra:
+      content: legalterp.pages.dev
+      zone_id: 92fbba8117466299c5130d3a43cd0cae
+    id: d0b69d25fd97b9bdc526bf0f6ce438f5
+    kind: cf.dns_records
+    name: legalterp.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: 92fbba8117466299c5130d3a43cd0cae
+    kind: cf.email_routing
+    name: legalterp.com
+  cf.pages_project:
+    extra:
+      subdomain: legalterp.pages.dev
+    id: legalterp
+    kind: cf.pages_project
+    name: legalterp
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: legalterp-photos
+    kind: cf.r2_bucket
+    name: legalterp-photos
+  cf.turnstile:
+    extra:
+      secret: 0x4AAAAAADDu2Fwzi3eJZ3S9TjjeY7XLv7Y
+    id: 0x4AAAAAADDu2Gl8p6EDQuvv
+    kind: cf.turnstile
+    name: legalterp
+  content.enrich:
+    extra:
+      exported: 87
+    id: /home/nick/directory-factory/factory/verticals/legalterp/src/data/listings
+    kind: content.enrich
+    name: legalterp
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/directory-factory/factory/verticals/legalterp/src/data/faqs.json
+    kind: content.faqs
+    name: legalterp
+  content.generate:
+    extra:
+      blog_posts: 29
+      cities: 68
+    id: /home/nick/directory-factory/factory/verticals/legalterp/src/content
+    kind: content.generate
+    name: legalterp
+  content.images:
+    extra:
+      articles: '28'
+      cities: '68'
+    id: /home/nick/directory-factory/factory/verticals/legalterp/images.json
+    kind: content.images
+    name: legalterp
+  content.interlink:
+    extra:
+      stamp_mtime: '1777153554.377209'
+    id: /home/nick/directory-factory/factory/verticals/legalterp/.interlink-stamp
+    kind: content.interlink
+    name: legalterp
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/directory-factory/factory/verticals/legalterp/src/data/guides.json
+    kind: content.lead_magnets
+    name: legalterp
+  content.scrape:
+    extra:
+      count: 87
+    id: /home/nick/directory-factory/factory/verticals/legalterp/pipeline.db
+    kind: content.scrape
+    name: legalterp
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_legalterp
+    kind: d1.migrations
+    name: legalterp
+  ga4.property:
+    extra:
+      measurement_id: G-MVCQCFV9T1
+    id: G-MVCQCFV9T1
+    kind: ga4.property
+    name: legalterp
+  github.repo:
+    extra: {}
+    id: nickedpalm/legalterp
+    kind: github.repo
+    name: nickedpalm/legalterp
+  gsc.verify:
+    extra:
+      api_verified: true
+      content: google-site-verification=oeAS9YwipYwkNP_5csQKbLVgmJ5MIGgFSNZyefOy6-s
+    id: 0d45b87aaf0e816700e05f4c8b0ec58c
+    kind: gsc.verify
+    name: legalterp.com
+  listmonk.api_user:
+    extra:
+      password: ppa20eb2jOFo8wTCp8fYq-J9VDcv9G4N
+    id: legalterp-api
+    kind: listmonk.api_user
+    name: legalterp-api
+  local.colors:
+    extra:
+      primary: '#cc3333'
+    id: /home/nick/directory-factory/factory/verticals/legalterp/colors.json
+    kind: local.colors
+    name: legalterp
+  local.logos:
+    extra:
+      copied: 11
+    id: /home/nick/directory-factory/factory/verticals/legalterp/public
+    kind: local.logos
+    name: legalterp
+  local.scaffold:
+    extra:
+      domain: legalterp.com
+    id: /home/nick/directory-factory/factory/verticals/legalterp/vertical.json
+    kind: local.scaffold
+    name: legalterp
+  local.template_sync:
+    extra:
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
+    id: /home/nick/directory-factory/factory/verticals/legalterp
+    kind: local.template_sync
+    name: legalterp
+  ses.domain_verify:
+    extra:
+      dkim_count: 3
+    id: legalterp.com
+    kind: ses.domain_verify
+    name: legalterp.com

@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "jr-language-translation-services-inc-raleigh",
+    "name": "JR Language Translation Services Inc.",
+    "city": "Raleigh",
+    "state": "NC",
+    "address": "",
+    "lat": 35.7803977,
+    "lng": -78.6390989,
+    "phone": "866-389-5036",
+    "website": "https://jrlanguage.com/locations/raleigh-translation-services/",
+    "email": "INFO@JRLANGUAGE.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality professional translation and interpretation services for businesses and individuals in Raleigh, North Carolina.",
+    "certifications": [],
+    "services": [
+      "translation",
+      "interpretation",
+      "document translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:38",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "swift",
+        "precise",
+        "quick",
+        "great service",
+        "easy process"
+      ],
+      "highlights": [
+        {
+          "text": "Best customer service ever. My order was completed the day I placed it.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "As a fluent Arabic speaker, I found the translation service very precise, detailed and professional.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were great and came through for me in a pinch! 10/10!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The submission process was easy and the translation was completed quickly.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Unanimous 5-star reviews highlighting professional, precise translations delivered swiftly with exceptional customer service and an easy submission process."
+    }
+  }
+]

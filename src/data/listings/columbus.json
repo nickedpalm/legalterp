@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "access-2-interpreters-columbus",
+    "name": "Access 2 Interpreters",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "1716519929",
+    "website": "https://www.access2interpreters.com",
+    "email": "contact@access2interpreters.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified legal interpretation and translation services for attorneys and courts in Columbus and statewide.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:09",
+    "sentiment": null
+  }
+]

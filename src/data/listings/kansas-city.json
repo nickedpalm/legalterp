@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "elite-translingo-kansas-city",
+    "name": "Elite TransLingo",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "1-800-772-5103",
+    "website": "https://elitetranslingo.com",
+    "email": "INFO@ELITETRANSLINGO.COM",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified translation and interpretation services specializing in USCIS immigration document translation. Provides consecutive interpretation for court hearings, mediation, depositions, and law offices.",
+    "certifications": [],
+    "services": [
+      "certified translation",
+      "consecutive interpretation",
+      "court hearings",
+      "depositions",
+      "mediation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:59",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "excellent quality",
+        "professional",
+        "reliable",
+        "repeat business",
+        "satisfied",
+        "partnership"
+      ],
+      "highlights": [
+        {
+          "text": "Your last translaiton work was excellent, Thank you so much for your service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "looking forward to continue working with you",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Strong positive sentiment from a major corporate client (Bayer) expressing satisfaction with past translation work and strong interest in continuing the business relationship."
+    }
+  },
+  {
+    "slug": "interpreters-inc-kansas-city",
+    "name": "Interpreters, Inc.",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "Not available",
+    "website": "https://interpreters24hours.com",
+    "email": "impallari@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "On-demand and on-site interpreting for major languages; serves hospitals, schools, courts, and law enforcement agencies. Offers remote and in-person interpreting, document translation, transcription, and language instruction.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "remote interpreting",
+      "in-person interpreting",
+      "document translation",
+      "transcription"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:59",
+    "sentiment": null
+  },
+  {
+    "slug": "lamp-interpreters-kansas-city",
+    "name": "LAMP Interpreters",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "Not available",
+    "website": "https://lampinterpreters.org",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Qualified and certified interpreters for legal interpreting in Missouri. Maintains high standards for legal interpreting services.",
+    "certifications": [],
+    "services": [
+      "legal interpreting",
+      "court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:59",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.55,
+      "keywords": [
+        "clear",
+        "understanding",
+        "communication",
+        "confirmation"
+      ],
+      "highlights": [
+        {
+          "text": "Understood.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Extremely minimal review with ambiguous sentiment\u2014brief confirmation phrase suggests clarity but insufficient context to determine reputation."
+    }
+  },
+  {
+    "slug": "legal-language-services-kansas-city",
+    "name": "Legal Language Services",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "Not available",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "1-800-788-0450",
+    "website": "https://www.legallanguage.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides Missouri interpreters who meet state interpreting rules for courtroom trials, hearings, and depositions.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "trial support",
+      "depositions",
+      "hearings"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:59",
+    "sentiment": null
+  }
+]

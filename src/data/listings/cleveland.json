@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "certified-interpreters-united-cleveland",
+    "name": "Certified Interpreters United",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "",
+    "lat": 41.4996574,
+    "lng": -81.6936772,
+    "phone": "9999999999",
+    "website": "https://www.courtcertifiediu.com",
+    "email": "conference@courtcertifiediu.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides highest quality judiciary interpreting services which are court recognized, approved and Supreme Court certified, specializing in trials, hearings, depositions, legal document and transcript translation.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:09",
+    "sentiment": null
+  }
+]

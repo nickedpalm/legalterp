@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "interpreter-rate-guide-2026",
+    "title": "Interpreter Rate Guide 2026",
+    "subtitle": "Compare FCICE interpreter rates across 50 US states",
+    "description": "Get transparent 2026 pricing data for FCICE-certified court interpreters across all 50 states. Budget accurately, negotiate confidently with providers, and understand cost drivers for different service models.",
+    "bullets": [
+      "FCICE certified interpreter rates: all 50 states, hourly and per-appearance",
+      "Remote vs. in-person rates: optimize costs by delivery method",
+      "Specialty languages: Arabic, Mandarin, Vietnamese, Spanish rate benchmarks",
+      "Certified vs. uncertified interpreter costs: understand your compliance premium"
+    ],
+    "pdfUrl": "/guides/pdf/interpreter-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "legal-interpreter-certification-vetting-guide",
+    "title": "Legal Interpreter Certification Vetting Guide",
+    "subtitle": "How to Hire Interpreters Who Pass Legal Scrutiny",
+    "description": "Hiring unqualified interpreters exposes your cases to mistranslation liability. Learn what credentials matter, which certifications actually protect you, and the red flags that signal a provider won't hold up in court.",
+    "bullets": [
+      "FCICE vs. state certifications: which actually meets your court requirements",
+      "Three credential schemes that even experienced attorneys fail to catch",
+      "The exact red flags that expose unqualified interpreters instantly",
+      "Why your current hiring process leaves you exposed to appeals"
+    ],
+    "pdfUrl": "/guides/pdf/legal-interpreter-certification-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "remote-interpretation-setup-checklist",
+    "title": "Remote Interpretation Setup Checklist",
+    "subtitle": "Ensure quality and compliance with certified remote interpreters",
+    "description": "A step-by-step guide for attorneys and court administrators to properly configure remote interpretation with FCICE-certified interpreters, ensuring legal compliance and audio quality for every proceeding.",
+    "bullets": [
+      "Verify FCICE credentials and malpractice insurance upfront",
+      "Confirm audio and video setup 48 hours prior",
+      "Document state compliance: remote rules vary by jurisdiction",
+      "Coordinate scheduling across time zones and availability"
+    ],
+    "pdfUrl": "/guides/pdf/remote-interpretation-setup-checklist.pdf",
+    "category": "How-To"
+  }
+]

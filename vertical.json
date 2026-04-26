@@ -1,0 +1,171 @@
+{
+  "name": "Court Interpreters",
+  "brandName": "LegalTerp",
+  "slug": "legalterp",
+  "domain": "legalterp.com",
+  "siteUrl": "https://legalterp.com",
+  "tagline": "Certified court interpreters, independently verified.",
+  "description": "The most comprehensive directory of FCICE-certified and state-court-credentialed interpreters serving depositions, hearings, and client consultations across the United States.",
+  "jobValue": "$350-750 per assignment",
+  "industry": "legal",
+  "primaryKeyword": "certified court interpreter",
+  "secondaryKeywords": [
+    "court interpreter services",
+    "legal interpreter",
+    "deposition interpreter",
+    "certified legal interpreter",
+    "federal court interpreter",
+    "immigration court interpreter"
+  ],
+  "certifications": [
+    "FCICE (Federal Court Interpreter Certification Examination)",
+    "NCSC State Court Certified Interpreter",
+    "NAJIT Member (National Association of Judiciary Interpreters and Translators)",
+    "ATA Certified Translator (American Translators Association)",
+    "DOJ EOIR Accredited Interpreter (Executive Office for Immigration Review)",
+    "RID CI (Registry of Interpreters for the Deaf \u2014 Legal/Court Specialist)"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Court interpreters provide spoken language interpretation in legal settings including depositions, hearings, trials, and attorney-client meetings. Credentialed professionals (FCICE-certified, NCSC state court certified, EOIR-accredited) interpret simultaneously or consecutively across all legal proceedings. Attorneys and court administrators hire them for depositions, motion hearings, arraignments, family court proceedings, and immigration hearings. Assignments range from one-hour client consultations to multi-day trials. Certification status, language pair, and courtroom experience vary significantly and affect admissibility of interpreted testimony.\n",
+  "contactEmail": "contact@legalterp.com",
+  "buyerPersona": "attorneys and court administrators",
+  "servicePhrase": "court interpretation",
+  "primaryCredential": "FCICE",
+  "buyerSearchContext": "when scheduling depositions, court hearings, client meetings, or immigration proceedings involving non-English-speaking parties",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help attorneys find credentialed court interpreters without relying on court-appointed lists that are often outdated or unavailable for depositions \u2014 a gap he ran into firsthand when sourcing a last-minute interpreter for a deposition with a Spanish-speaking witness.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/6oU14mbDsfS85TegeRa3u3o",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/00w4gycHw21i0yU4w9a3u3p",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/8x2dR8azocFW5Te3s5a3u3q",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/28E4gyazo8pG1CYgeRa3u3r",
+  "stripeFeaturedProductId": "prod_UFN1PrGJlO6ewZ",
+  "stripeCityProProductId": "prod_UFN10khKQLxlWk",
+  "stripeFeaturedMonthlyPriceId": "price_1TQTy7CIgRyRDQ2P2ylA36Xk",
+  "stripeFeaturedAnnualPriceId": "price_1TQTyACIgRyRDQ2PS6NdHHTL",
+  "stripeCityProMonthlyPriceId": "price_1TQTyBCIgRyRDQ2P2rGA7cPQ",
+  "stripeCityProAnnualPriceId": "price_1TQTyDCIgRyRDQ2PypQ4FbwJ",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "8",
+  "listmonkTplMagicLink": "38",
+  "listmonkTplLeadNotify": "39",
+  "listmonkTplGuideDelivery": "40",
+  "ga4MeasurementId": "G-MVCQCFV9T1",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-MVCQCFV9T1",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "state_court_certified",
+        "type": "boolean",
+        "label": "State Court Certified Interpreter",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for state court certification numbers, mentions of passing the NCSC oral proficiency exam, or explicit \"State Court Certified\" designation on homepage, about page, or credentials section."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', interpreter bios, or '15+ years in legal interpretation' statements; calculate from career start date or founding year if provided."
+      },
+      {
+        "key": "languages",
+        "type": "multi_enum",
+        "label": "Languages",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Spanish",
+          "Mandarin",
+          "Cantonese",
+          "Vietnamese",
+          "Portuguese",
+          "Russian",
+          "Arabic",
+          "French",
+          "Korean",
+          "Tagalog"
+        ],
+        "scrape_hint": "Parse language list from homepage, services page, or interpreter profile; capture all listed source and target languages."
+      },
+      {
+        "key": "practice_areas",
+        "type": "multi_enum",
+        "label": "Practice Areas",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Depositions",
+          "Criminal Court",
+          "Family Court",
+          "Immigration",
+          "Civil Litigation",
+          "Administrative Hearings"
+        ],
+        "scrape_hint": "Parse services or specialties pages; look for explicit mentions of deposition, criminal, civil, family court, immigration, or administrative hearing interpretation."
+      },
+      {
+        "key": "fcice_certified",
+        "type": "boolean",
+        "label": "FCICE Certified (Federal Court)",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for explicit \"FCICE\" credential, \"Federal Court Interpreter Certified\" designation, or certification by the Administrative Office of U.S. Courts on credentials or bio pages."
+      },
+      {
+        "key": "remote_vri_available",
+        "type": "boolean",
+        "label": "Remote / VRI Available",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'video remote interpretation', 'VRI', 'Zoom interpretation', 'remote legal interpreting', or virtual/telephonic service options on services or FAQ pages."
+      },
+      {
+        "key": "availability",
+        "type": "enum",
+        "label": "Scheduling Availability",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Same Day / Emergency",
+          "24-48 Hours Notice",
+          "3-5 Business Days",
+          "Advance Booking Only"
+        ],
+        "scrape_hint": "Extract from FAQs, booking pages, or service descriptions; look for rush or emergency availability language or standard lead-time requirements."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

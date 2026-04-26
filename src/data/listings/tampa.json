@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "pure-services-llc-habtom-tekle-tampa",
+    "name": "Pure Services, LLC (Habtom Tekle)",
+    "city": "Tampa",
+    "state": "FL",
+    "address": "",
+    "lat": 27.9449854,
+    "lng": -82.4583107,
+    "phone": "(202) 375-8568",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Freelance court interpreter services in the 13th Judicial Circuit, state certified.",
+    "certifications": [],
+    "services": [
+      "Court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:19:49",
+    "sentiment": null
+  }
+]

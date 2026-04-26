@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "casa-interpretation-wilmington",
+    "name": "CASA Interpretation",
+    "city": "Wilmington",
+    "state": "NC",
+    "address": "610 A South College Rd, Wilmington, NC 28403",
+    "lat": 34.2280371,
+    "lng": -77.878881,
+    "phone": "(910) 274-4607",
+    "website": "www.casahelps.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers interpretation services, primarily English/Spanish, for various settings including court.",
+    "certifications": [],
+    "services": [
+      "English/Spanish interpretation",
+      "court interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:20:38",
+    "sentiment": null
+  }
+]

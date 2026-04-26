@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "american-language-services-indianapolis",
+    "name": "American Language Services",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "800-951-5020",
+    "website": "https://www.alsglobal.net/state/indiana/indiana-interpreting-legal-and-conference-interpreters/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified court interpreters for Indiana courts, legal proceedings, depositions, and trials in multiple languages; connects local qualified interpreters.",
+    "certifications": [],
+    "services": [
+      "court interpretation",
+      "deposition interpreting",
+      "legal conference interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:30",
+    "sentiment": null
+  },
+  {
+    "slug": "interprenet-indianapolis",
+    "name": "Interprenet",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "1233867320",
+    "website": "https://interprenet.net/court-interpreter",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers court-certified interpreters for U.S. state and federal courts, including Indiana, in 300+ languages onsite or remotely for criminal and civil proceedings.",
+    "certifications": [],
+    "services": [
+      "onsite court interpreting",
+      "remote court interpreting",
+      "ASL interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:30",
+    "sentiment": null
+  },
+  {
+    "slug": "midwest-language-services-indianapolis",
+    "name": "Midwest Language Services",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "1608745663",
+    "website": "https://www.midwestlanguageservices.com/",
+    "email": "info@midwestlanguageservices.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Top-rated provider of certified court interpreters in Indiana for legal, medical, and business fields with on-site and remote options.",
+    "certifications": [],
+    "services": [
+      "certified court interpretation",
+      "legal interpreting",
+      "confidential translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:30",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "responsive",
+        "exceptional staff",
+        "high-quality",
+        "personable",
+        "results-driven"
+      ],
+      "highlights": [
+        {
+          "text": "I have a job now! And it's in part thanks to Midwest Language Services!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I'm so happy we found you guys!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She is the best English teacher ever!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I call, and someone is there in a manner of moments",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Midwest Language Services receives overwhelmingly positive reviews with consistent praise for professional, responsive staff and exceptional education/interpretation services."
+    }
+  },
+  {
+    "slug": "translation-excellence-indianapolis",
+    "name": "Translation Excellence",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "(720) 325-0459",
+    "website": "https://translationexcellence.com/indiana/indianapolis/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides certified translators and professional interpreters for court hearings, legal documents, and government agencies in Indianapolis.",
+    "certifications": [],
+    "services": [
+      "court interpreting",
+      "certified legal translations",
+      "remote interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:21:30",
+    "sentiment": null
+  }
+]

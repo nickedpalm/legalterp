@@ -1,0 +1,144 @@
+[
+  {
+    "slug": "catherine-kruck-louisville",
+    "name": "Catherine Kruck",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "859-447-6919",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Spanish interpreter serving Central Kentucky courts.",
+    "certifications": [],
+    "services": [
+      "Certified Spanish court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:08",
+    "sentiment": null
+  },
+  {
+    "slug": "international-center-of-kentucky-louisville",
+    "name": "International Center of Kentucky",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "1566575417",
+    "website": "https://www.icofky.com",
+    "email": "user@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides court-certified and medical-certified interpreters and translators for various languages, available by phone, face-to-face, or video conference for organizations and businesses.",
+    "certifications": [],
+    "services": [
+      "Court interpretation",
+      "Medical interpretation",
+      "Translation services",
+      "Remote interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "refugees",
+        "protection",
+        "moral obligation",
+        "humanitarian",
+        "enrichment",
+        "immigration"
+      ],
+      "highlights": [
+        {
+          "text": "We have a legal and moral obligation to protect people fleeing bombs, bullets and tyrants",
+          "sentiment": "positive"
+        },
+        {
+          "text": "those people have enriched our society",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "The review expresses strong moral and legal conviction that protecting refugees is both an obligation and beneficial to society."
+    }
+  },
+  {
+    "slug": "jean-bellego-interpreter-and-translator-louisville",
+    "name": "Jean Bellego Interpreter and Translator",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "954-665-0405",
+    "website": "http://interpreterandtranslator.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Spanish interpreter for Metro Louisville, providing services for court and legal needs.",
+    "certifications": [],
+    "services": [
+      "Certified Spanish interpreting",
+      "Translation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:08",
+    "sentiment": null
+  },
+  {
+    "slug": "knapp-language-services-louisville",
+    "name": "Knapp Language Services",
+    "city": "Louisville",
+    "state": "KY",
+    "address": "",
+    "lat": 38.2542376,
+    "lng": -85.759407,
+    "phone": "502-762-4879",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Spanish court interpreter serving Metro Louisville area for depositions and legal proceedings.",
+    "certifications": [],
+    "services": [
+      "Certified Spanish court interpreting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-25 19:22:08",
+    "sentiment": null
+  }
+]
